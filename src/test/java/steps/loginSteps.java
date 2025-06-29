@@ -15,5 +15,6 @@ public class loginSteps {
 
     @Then("User should be redirected to the home page")
     public void userShouldBeRedirectedToTheHomePage() {
+        System.out.println("hello how are you ");
     }
 }
